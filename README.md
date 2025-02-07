@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Philemon! 👋
 
-<!--
-**PhilemonAT/PhilemonAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student in Statistics at ETH Zurich, driven by broad interests in Machine Learning, Deep Learning, as well as probabilistic methods.
+I enjoy exploring diverse data science problems, from practical applications to theoretical perspectives.
 
-Here are some ideas to get you started:
+## Some recent projects I've been working on:
+- **Crop-type Prediction**  
+  *Explored the integration of climate and satellite time series data for accurate and distribution-robust crop-type predictions. [Code](https://github.com/PhilemonAT/utae-paps)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Catastrophic Forgetting in Continual Learning**  
+  *Investigated the role of different subspaces of the loss Hessian and how they influence model forgetting over time. [Code](https://github.com/PhilemonAT/cf-tiny-subspaces)*
+
+- **Gene Expression Prediction**  
+  *Analyzed gene expression using histone modification and DNase accessibility data. [Code](https://github.com/PhilemonAT/ML4Genomics)*
+
+Feel free to take a look at my projects and reach out if you'd like to collaborate or chat!
